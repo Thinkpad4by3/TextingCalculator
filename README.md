@@ -22,8 +22,8 @@ For this example, I typed "HiGithub".
 Once messages are written out, they can be sent. (the default start up message is "HelloPPL")
 Before:
 
-![before send](https://i.imgur.com/xOpcOARm.jpg)
+![before send](https://i.imgur.com/xOpcOARl.jpg)
 
 After:
 
-![after send](https://i.imgur.com/ped5LrFm.jpg)
+![after send](https://i.imgur.com/ped5LrFl.jpg)
